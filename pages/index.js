@@ -71,4 +71,3 @@ const personalMovieDB = {
 };
 
 /* Конец практической части */
-
